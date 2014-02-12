@@ -16,7 +16,7 @@
   draw()
    {   
      fill(c, 100, 100);
-     c = (c+1) % 155;
+     c = (c+1) % 99;
      if (mousePressed)
        { 
          strokeWeight(1);
