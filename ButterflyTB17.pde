@@ -20,7 +20,7 @@
      if (mousePressed)
        { 
          strokeWeight(1);
-         stroke(0);
+         stroke(100);
        }
      else 
        { 
