@@ -1,0 +1,11 @@
+Title: 2-d Mouse
+
+Samee Zahid:
+
+Site: http://processing.org/examples/mouse2d.html
+
+Description:
+When the cursor moves in the x direction, the squares move horizontally. When the cursor moves in the y direction, the respective squares shrink and enlarge.
+
+Commentary
+The effect gained from manipulating the y coordinate gave a sense of depth, and relegated one of the squares in the background, and pushed one to the foreground. I found it fascinating to move the cursor in different ways to get cool animations. Moving the cursor elliptically makes the square look like superheroes flying in the air and circling each other before a massive showdown (Yes!). 

@@ -1,0 +1,5 @@
+Eve Lyons-Berg
+http://processing.org/examples/scrollbar.html
+A scrollbar over an image which moves either the top or bottom of the image
+left or right depending on which way you scroll.
+I like you you can drag the top and bottom seperately or together.
