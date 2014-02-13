@@ -1,3 +1,5 @@
+//Directions: left-click to draw, right-click to draw lighter, clear with any key
+
 int width = 800 ;
 int height = 800 ;
 
