@@ -1,0 +1,12 @@
+Title: Tickle
+
+Toby Baratta:
+
+Site: http://processing.org/examples/tickle.html
+
+Description:
+When mouse moves over the world tickle, the word tickle reacts and moves away as if someone was tickling it.
+
+Commentary:
+Honestly I found this really hilarious as a concept and I liked the quick implementation of it. It seems like something that would be fun to play with if "tickle" was a link and moved quicker away from the mouse so that the mouse had no way of hovering over it. Or it if taunted the user.
+

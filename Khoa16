@@ -1,0 +1,32 @@
+/*Citation:
+http://www.processing.org/examples/setupdraw.html
+http://processing.org/discourse/beta/num_1264000877.html
+http://www.processing.org/reference/ */
+
+float angle1 = 0;
+float angle2 = 0;
+int width = 600;
+int height = 300;
+float x1=150;
+float y1=50;
+float x2= 450;
+float y2= 50;
+
+void setup() {
+  size(width, height);  
+  stroke(255);  //set the stroke color to white
+  strokeWeight(20);
+}
+
+void draw() { 
+  background(0);   //et the background to black
+  angle1 = angle1 + 0.1;
+  x1 = x1 + 10*cos(angle1); 
+  y1 = y1 + 10*sin(angle1);
+  point(x1,y1);
+  
+  angle2 = angle2 + 0.1;
+  x2 = x2 - 10*cos(angle2); 
+  y2 = y2 + 10*sin(angle2);
+  point(x2,y2);
+} 
